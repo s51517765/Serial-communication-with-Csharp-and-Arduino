@@ -10,12 +10,12 @@ Visual Studio C# / Arduino
 
 ## 技術的解説 (Technical explanation)
 
-https://s51517765.hatenadiary.jp/entry/2022/09/xxxxx
+https://s51517765.hatenadiary.jp/entry/2022/09/26/073000
 
 フォルダ構成<br>
 ├─Arduino （Arduino スケッチ）<br>
 ├─ArduinoSerial（C#）<br>
-└─packages（C#）<br>
+├─packages（C#）<br>
 └─ArduinoSerial.sln（C#）
 
 ## ライセンス (License)
